@@ -8,7 +8,7 @@ This workspace contains two Python scripts for retrieving and displaying app inf
   A basic script that searches for an app by name, fetches its details, and prints information such as installs, real installs, score, and ratings to the console.
 
 - [`scraper_fixed.py`](scraper_fixed.py):  
-  An improved version that adds error handling, output formatting, and saves the results to a log file (`app_install_log.txt`).
+  An improved version of [`raw scraper.py`](raw%20scraper.py) that adds error handling, output formatting, and saves the results to a log file (`app_install_log.txt`).
 
 ## Usage
 
